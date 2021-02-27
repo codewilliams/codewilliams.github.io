@@ -1,5 +1,11 @@
 ## Welcome to GitHub Pages
 
+# This is my experimental project on github.io and its here
+# as a base to detail and report on my insights.
+
+
+
+
 You can use the [editor on GitHub](https://github.com/codewilliams/codewilliams.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
