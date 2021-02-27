@@ -1,7 +1,6 @@
 ## Welcome to GitHub Pages
 
-# This is my experimental project on github.io and its here
-# as a base to detail and report on my insights.
+# This is my experimental project on github.io and its here as a base to detail and report on my insights.
 
 
 
